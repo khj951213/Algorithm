@@ -1,0 +1,12 @@
+/Users/hyun/Projects/Algorithm/SortCollection/bin/Debug/net6.0/SortCollection.deps.json
+/Users/hyun/Projects/Algorithm/SortCollection/bin/Debug/net6.0/SortCollection.dll
+/Users/hyun/Projects/Algorithm/SortCollection/bin/Debug/net6.0/SortCollection.pdb
+/Users/hyun/Projects/Algorithm/SortCollection/obj/Debug/net6.0/SortCollection.csproj.AssemblyReference.cache
+/Users/hyun/Projects/Algorithm/SortCollection/obj/Debug/net6.0/SortCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyun/Projects/Algorithm/SortCollection/obj/Debug/net6.0/SortCollection.AssemblyInfoInputs.cache
+/Users/hyun/Projects/Algorithm/SortCollection/obj/Debug/net6.0/SortCollection.AssemblyInfo.cs
+/Users/hyun/Projects/Algorithm/SortCollection/obj/Debug/net6.0/SortCollection.csproj.CoreCompileInputs.cache
+/Users/hyun/Projects/Algorithm/SortCollection/obj/Debug/net6.0/SortCollection.dll
+/Users/hyun/Projects/Algorithm/SortCollection/obj/Debug/net6.0/refint/SortCollection.dll
+/Users/hyun/Projects/Algorithm/SortCollection/obj/Debug/net6.0/SortCollection.pdb
+/Users/hyun/Projects/Algorithm/SortCollection/obj/Debug/net6.0/ref/SortCollection.dll

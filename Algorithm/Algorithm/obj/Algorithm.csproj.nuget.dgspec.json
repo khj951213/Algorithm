@@ -1,0 +1,301 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hyun/Projects/Algorithm/Algorithm/Algorithm.csproj": {}
+  },
+  "projects": {
+    "/Users/hyun/Projects/Algorithm/Algorithm/Algorithm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hyun/Projects/Algorithm/Algorithm/Algorithm.csproj",
+        "projectName": "Algorithm",
+        "projectPath": "/Users/hyun/Projects/Algorithm/Algorithm/Algorithm.csproj",
+        "packagesPath": "/Users/hyun/.nuget/packages/",
+        "outputPath": "/Users/hyun/Projects/Algorithm/Algorithm/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hyun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/hyun/Projects/Algorithm/Calculator/Calculator.csproj": {
+                "projectPath": "/Users/hyun/Projects/Algorithm/Calculator/Calculator.csproj"
+              },
+              "/Users/hyun/Projects/Algorithm/Fibonacci/Fibonacci.csproj": {
+                "projectPath": "/Users/hyun/Projects/Algorithm/Fibonacci/Fibonacci.csproj"
+              },
+              "/Users/hyun/Projects/Algorithm/SortCollection/SortCollection.csproj": {
+                "projectPath": "/Users/hyun/Projects/Algorithm/SortCollection/SortCollection.csproj"
+              },
+              "/Users/hyun/Projects/Algorithm/StringCollection/StringCollection.csproj": {
+                "projectPath": "/Users/hyun/Projects/Algorithm/StringCollection/StringCollection.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hyun/Projects/Algorithm/Calculator/Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hyun/Projects/Algorithm/Calculator/Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "/Users/hyun/Projects/Algorithm/Calculator/Calculator.csproj",
+        "packagesPath": "/Users/hyun/.nuget/packages/",
+        "outputPath": "/Users/hyun/Projects/Algorithm/Calculator/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hyun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hyun/Projects/Algorithm/Fibonacci/Fibonacci.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hyun/Projects/Algorithm/Fibonacci/Fibonacci.csproj",
+        "projectName": "Fibonacci",
+        "projectPath": "/Users/hyun/Projects/Algorithm/Fibonacci/Fibonacci.csproj",
+        "packagesPath": "/Users/hyun/.nuget/packages/",
+        "outputPath": "/Users/hyun/Projects/Algorithm/Fibonacci/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hyun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hyun/Projects/Algorithm/SortCollection/SortCollection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hyun/Projects/Algorithm/SortCollection/SortCollection.csproj",
+        "projectName": "SortCollection",
+        "projectPath": "/Users/hyun/Projects/Algorithm/SortCollection/SortCollection.csproj",
+        "packagesPath": "/Users/hyun/.nuget/packages/",
+        "outputPath": "/Users/hyun/Projects/Algorithm/SortCollection/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hyun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hyun/Projects/Algorithm/StringCollection/StringCollection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hyun/Projects/Algorithm/StringCollection/StringCollection.csproj",
+        "projectName": "StringCollection",
+        "projectPath": "/Users/hyun/Projects/Algorithm/StringCollection/StringCollection.csproj",
+        "packagesPath": "/Users/hyun/.nuget/packages/",
+        "outputPath": "/Users/hyun/Projects/Algorithm/StringCollection/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hyun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

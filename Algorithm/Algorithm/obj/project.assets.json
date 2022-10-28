@@ -1,0 +1,150 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Calculator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Calculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calculator.dll": {}
+        }
+      },
+      "Fibonacci/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Fibonacci.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fibonacci.dll": {}
+        }
+      },
+      "SortCollection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SortCollection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SortCollection.dll": {}
+        }
+      },
+      "StringCollection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/StringCollection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StringCollection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator/1.0.0": {
+      "type": "project",
+      "path": "../Calculator/Calculator.csproj",
+      "msbuildProject": "../Calculator/Calculator.csproj"
+    },
+    "Fibonacci/1.0.0": {
+      "type": "project",
+      "path": "../Fibonacci/Fibonacci.csproj",
+      "msbuildProject": "../Fibonacci/Fibonacci.csproj"
+    },
+    "SortCollection/1.0.0": {
+      "type": "project",
+      "path": "../SortCollection/SortCollection.csproj",
+      "msbuildProject": "../SortCollection/SortCollection.csproj"
+    },
+    "StringCollection/1.0.0": {
+      "type": "project",
+      "path": "../StringCollection/StringCollection.csproj",
+      "msbuildProject": "../StringCollection/StringCollection.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Calculator >= 1.0.0",
+      "Fibonacci >= 1.0.0",
+      "SortCollection >= 1.0.0",
+      "StringCollection >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/hyun/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/hyun/Projects/Algorithm/Algorithm/Algorithm.csproj",
+      "projectName": "Algorithm",
+      "projectPath": "/Users/hyun/Projects/Algorithm/Algorithm/Algorithm.csproj",
+      "packagesPath": "/Users/hyun/.nuget/packages/",
+      "outputPath": "/Users/hyun/Projects/Algorithm/Algorithm/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/hyun/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/hyun/Projects/Algorithm/Calculator/Calculator.csproj": {
+              "projectPath": "/Users/hyun/Projects/Algorithm/Calculator/Calculator.csproj"
+            },
+            "/Users/hyun/Projects/Algorithm/Fibonacci/Fibonacci.csproj": {
+              "projectPath": "/Users/hyun/Projects/Algorithm/Fibonacci/Fibonacci.csproj"
+            },
+            "/Users/hyun/Projects/Algorithm/SortCollection/SortCollection.csproj": {
+              "projectPath": "/Users/hyun/Projects/Algorithm/SortCollection/SortCollection.csproj"
+            },
+            "/Users/hyun/Projects/Algorithm/StringCollection/StringCollection.csproj": {
+              "projectPath": "/Users/hyun/Projects/Algorithm/StringCollection/StringCollection.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

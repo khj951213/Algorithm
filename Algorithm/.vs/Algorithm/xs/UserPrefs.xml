@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5904493F-3448-4F3B-9227-7C51AD029946}|Default">
+  <MonoDevelop.Ide.ItemProperties.Algorithm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SortCollection FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithm/Program.cs">
+    <Files>
+      <File FileName="Algorithm/Program.cs" Line="7" Column="20" />
+      <File FileName="Algorithm/FileReader.cs" Line="2" Column="20" />
+      <File FileName="Calculator/BasicCalculator.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Algorithm" expanded="True">
+            <Node name="Algorithm" expanded="True" />
+            <Node name="Calculator" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

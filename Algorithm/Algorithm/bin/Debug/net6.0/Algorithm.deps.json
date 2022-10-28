@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Algorithm/1.0.0": {
+        "dependencies": {
+          "Calculator": "1.0.0",
+          "Fibonacci": "1.0.0",
+          "SortCollection": "1.0.0",
+          "StringCollection": "1.0.0"
+        },
+        "runtime": {
+          "Algorithm.dll": {}
+        }
+      },
+      "Calculator/1.0.0": {
+        "runtime": {
+          "Calculator.dll": {}
+        }
+      },
+      "Fibonacci/1.0.0": {
+        "runtime": {
+          "Fibonacci.dll": {}
+        }
+      },
+      "SortCollection/1.0.0": {
+        "runtime": {
+          "SortCollection.dll": {}
+        }
+      },
+      "StringCollection/1.0.0": {
+        "runtime": {
+          "StringCollection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fibonacci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SortCollection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringCollection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
