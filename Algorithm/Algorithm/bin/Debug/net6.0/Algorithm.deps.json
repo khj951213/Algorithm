@@ -10,6 +10,7 @@
         "dependencies": {
           "Calculator": "1.0.0",
           "Fibonacci": "1.0.0",
+          "SecurityUtility": "1.0.0",
           "SortCollection": "1.0.0",
           "StringCollection": "1.0.0"
         },
@@ -25,6 +26,11 @@
       "Fibonacci/1.0.0": {
         "runtime": {
           "Fibonacci.dll": {}
+        }
+      },
+      "SecurityUtility/1.0.0": {
+        "runtime": {
+          "SecurityUtility.dll": {}
         }
       },
       "SortCollection/1.0.0": {
@@ -51,6 +57,11 @@
       "sha512": ""
     },
     "Fibonacci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SecurityUtility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

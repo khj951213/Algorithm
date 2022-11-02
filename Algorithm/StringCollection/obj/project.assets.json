@@ -8,28 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/hyun/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\khj95\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hyun/Projects/Algorithm/StringCollection/StringCollection.csproj",
+      "projectUniqueName": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\StringCollection\\StringCollection.csproj",
       "projectName": "StringCollection",
-      "projectPath": "/Users/hyun/Projects/Algorithm/StringCollection/StringCollection.csproj",
-      "packagesPath": "/Users/hyun/.nuget/packages/",
-      "outputPath": "/Users/hyun/Projects/Algorithm/StringCollection/obj/",
+      "projectPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\StringCollection\\StringCollection.csproj",
+      "packagesPath": "C:\\Users\\khj95\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\StringCollection\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/hyun/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\khj95\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

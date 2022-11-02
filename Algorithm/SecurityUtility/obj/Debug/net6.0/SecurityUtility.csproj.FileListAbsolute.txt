@@ -1,0 +1,12 @@
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SecurityUtility\bin\Debug\net6.0\SecurityUtility.deps.json
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SecurityUtility\bin\Debug\net6.0\SecurityUtility.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SecurityUtility\bin\Debug\net6.0\SecurityUtility.pdb
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SecurityUtility\obj\Debug\net6.0\SecurityUtility.csproj.AssemblyReference.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SecurityUtility\obj\Debug\net6.0\SecurityUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SecurityUtility\obj\Debug\net6.0\SecurityUtility.AssemblyInfoInputs.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SecurityUtility\obj\Debug\net6.0\SecurityUtility.AssemblyInfo.cs
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SecurityUtility\obj\Debug\net6.0\SecurityUtility.csproj.CoreCompileInputs.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SecurityUtility\obj\Debug\net6.0\SecurityUtility.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SecurityUtility\obj\Debug\net6.0\refint\SecurityUtility.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SecurityUtility\obj\Debug\net6.0\SecurityUtility.pdb
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SecurityUtility\obj\Debug\net6.0\ref\SecurityUtility.dll

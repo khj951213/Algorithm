@@ -1,5 +1,5 @@
 ﻿namespace GraphSearch;
-public interface IGraphSearch
+public class GraphSearchUtil
 {
     
 }

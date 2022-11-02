@@ -10,3 +10,15 @@
 /Users/hyun/Projects/Algorithm/StringCollection/obj/Debug/net6.0/refint/StringCollection.dll
 /Users/hyun/Projects/Algorithm/StringCollection/obj/Debug/net6.0/StringCollection.pdb
 /Users/hyun/Projects/Algorithm/StringCollection/obj/Debug/net6.0/ref/StringCollection.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\StringCollection\bin\Debug\net6.0\StringCollection.deps.json
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\StringCollection\bin\Debug\net6.0\StringCollection.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\StringCollection\bin\Debug\net6.0\StringCollection.pdb
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\StringCollection\obj\Debug\net6.0\StringCollection.csproj.AssemblyReference.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\StringCollection\obj\Debug\net6.0\StringCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\StringCollection\obj\Debug\net6.0\StringCollection.AssemblyInfoInputs.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\StringCollection\obj\Debug\net6.0\StringCollection.AssemblyInfo.cs
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\StringCollection\obj\Debug\net6.0\StringCollection.csproj.CoreCompileInputs.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\StringCollection\obj\Debug\net6.0\StringCollection.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\StringCollection\obj\Debug\net6.0\refint\StringCollection.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\StringCollection\obj\Debug\net6.0\StringCollection.pdb
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\StringCollection\obj\Debug\net6.0\ref\StringCollection.dll

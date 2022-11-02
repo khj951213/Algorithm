@@ -10,3 +10,15 @@
 /Users/hyun/Projects/Algorithm/Calculator/obj/Debug/net6.0/refint/Calculator.dll
 /Users/hyun/Projects/Algorithm/Calculator/obj/Debug/net6.0/Calculator.pdb
 /Users/hyun/Projects/Algorithm/Calculator/obj/Debug/net6.0/ref/Calculator.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\Calculator\obj\Debug\net6.0\ref\Calculator.dll

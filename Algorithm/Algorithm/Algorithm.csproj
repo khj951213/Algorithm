@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Calculator\Calculator.csproj" />
     <ProjectReference Include="..\Fibonacci\Fibonacci.csproj" />
+    <ProjectReference Include="..\SecurityUtility\SecurityUtility.csproj" />
     <ProjectReference Include="..\StringCollection\StringCollection.csproj" />
     <ProjectReference Include="..\SortCollection\SortCollection.csproj" />
   </ItemGroup>

@@ -10,3 +10,15 @@
 /Users/hyun/Projects/Algorithm/SortCollection/obj/Debug/net6.0/refint/SortCollection.dll
 /Users/hyun/Projects/Algorithm/SortCollection/obj/Debug/net6.0/SortCollection.pdb
 /Users/hyun/Projects/Algorithm/SortCollection/obj/Debug/net6.0/ref/SortCollection.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SortCollection\bin\Debug\net6.0\SortCollection.deps.json
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SortCollection\bin\Debug\net6.0\SortCollection.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SortCollection\bin\Debug\net6.0\SortCollection.pdb
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SortCollection\obj\Debug\net6.0\SortCollection.csproj.AssemblyReference.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SortCollection\obj\Debug\net6.0\SortCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SortCollection\obj\Debug\net6.0\SortCollection.AssemblyInfoInputs.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SortCollection\obj\Debug\net6.0\SortCollection.AssemblyInfo.cs
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SortCollection\obj\Debug\net6.0\SortCollection.csproj.CoreCompileInputs.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SortCollection\obj\Debug\net6.0\SortCollection.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SortCollection\obj\Debug\net6.0\refint\SortCollection.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SortCollection\obj\Debug\net6.0\SortCollection.pdb
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\SortCollection\obj\Debug\net6.0\ref\SortCollection.dll
