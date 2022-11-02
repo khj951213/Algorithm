@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Algorithm</id>
+    <version>1.0.0</version>
+    <authors>Algorithm</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Calculator" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Fibonacci" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="SortCollection" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="StringCollection" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/hyun/Projects/Algorithm/Algorithm/bin/Debug/net6.0/Algorithm.runtimeconfig.json" target="lib/net6.0/Algorithm.runtimeconfig.json" />
+    <file src="/Users/hyun/Projects/Algorithm/Algorithm/bin/Debug/net6.0/Algorithm.dll" target="lib/net6.0/Algorithm.dll" />
+  </files>
+</package>
