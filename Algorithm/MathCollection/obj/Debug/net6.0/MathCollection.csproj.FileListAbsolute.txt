@@ -10,3 +10,15 @@
 /Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/obj/Debug/net6.0/refint/MathCollection.dll
 /Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/obj/Debug/net6.0/MathCollection.pdb
 /Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/obj/Debug/net6.0/ref/MathCollection.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\MathCollection\bin\Debug\net6.0\MathCollection.deps.json
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\MathCollection\bin\Debug\net6.0\MathCollection.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\MathCollection\bin\Debug\net6.0\MathCollection.pdb
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\MathCollection\obj\Debug\net6.0\MathCollection.csproj.AssemblyReference.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\MathCollection\obj\Debug\net6.0\MathCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\MathCollection\obj\Debug\net6.0\MathCollection.AssemblyInfoInputs.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\MathCollection\obj\Debug\net6.0\MathCollection.AssemblyInfo.cs
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\MathCollection\obj\Debug\net6.0\MathCollection.csproj.CoreCompileInputs.cache
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\MathCollection\obj\Debug\net6.0\MathCollection.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\MathCollection\obj\Debug\net6.0\refint\MathCollection.dll
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\MathCollection\obj\Debug\net6.0\MathCollection.pdb
+C:\Users\khj95\Documents\GitHub\Algorithm\Algorithm\MathCollection\obj\Debug\net6.0\ref\MathCollection.dll
