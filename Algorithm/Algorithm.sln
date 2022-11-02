@@ -5,10 +5,6 @@ VisualStudioVersion = 25.0.1703.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm", "Algorithm\Algorithm.csproj", "{5904493F-3448-4F3B-9227-7C51AD029946}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{96A30BE7-F43B-432F-BEF0-DA8B7C5DD0D0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{5195B4A5-D043-4DD0-BCD6-FBE528B7C438}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E746B08F-5D23-41DB-B1E7-4197B785AB2F}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
@@ -22,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphSearch", "GraphSearch\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityUtility", "SecurityUtility\SecurityUtility.csproj", "{64F89E38-1E68-42C9-9BC0-06858C25DFA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathCollection", "MathCollection\MathCollection.csproj", "{FCCB8460-5EC2-44BB-9A42-FEFC21B9BD78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,14 +30,6 @@ Global
 		{5904493F-3448-4F3B-9227-7C51AD029946}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5904493F-3448-4F3B-9227-7C51AD029946}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5904493F-3448-4F3B-9227-7C51AD029946}.Release|Any CPU.Build.0 = Release|Any CPU
-		{96A30BE7-F43B-432F-BEF0-DA8B7C5DD0D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96A30BE7-F43B-432F-BEF0-DA8B7C5DD0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96A30BE7-F43B-432F-BEF0-DA8B7C5DD0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96A30BE7-F43B-432F-BEF0-DA8B7C5DD0D0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5195B4A5-D043-4DD0-BCD6-FBE528B7C438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5195B4A5-D043-4DD0-BCD6-FBE528B7C438}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5195B4A5-D043-4DD0-BCD6-FBE528B7C438}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5195B4A5-D043-4DD0-BCD6-FBE528B7C438}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E0A5BE20-87D1-4FD3-AD00-C855C3EC76C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E0A5BE20-87D1-4FD3-AD00-C855C3EC76C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0A5BE20-87D1-4FD3-AD00-C855C3EC76C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -56,6 +46,10 @@ Global
 		{64F89E38-1E68-42C9-9BC0-06858C25DFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64F89E38-1E68-42C9-9BC0-06858C25DFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64F89E38-1E68-42C9-9BC0-06858C25DFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCB8460-5EC2-44BB-9A42-FEFC21B9BD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCB8460-5EC2-44BB-9A42-FEFC21B9BD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCB8460-5EC2-44BB-9A42-FEFC21B9BD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCB8460-5EC2-44BB-9A42-FEFC21B9BD78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

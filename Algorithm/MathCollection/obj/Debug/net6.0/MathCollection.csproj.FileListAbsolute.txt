@@ -1,0 +1,12 @@
+/Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/bin/Debug/net6.0/MathCollection.deps.json
+/Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/bin/Debug/net6.0/MathCollection.dll
+/Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/bin/Debug/net6.0/MathCollection.pdb
+/Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/obj/Debug/net6.0/MathCollection.csproj.AssemblyReference.cache
+/Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/obj/Debug/net6.0/MathCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/obj/Debug/net6.0/MathCollection.AssemblyInfoInputs.cache
+/Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/obj/Debug/net6.0/MathCollection.AssemblyInfo.cs
+/Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/obj/Debug/net6.0/MathCollection.csproj.CoreCompileInputs.cache
+/Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/obj/Debug/net6.0/MathCollection.dll
+/Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/obj/Debug/net6.0/refint/MathCollection.dll
+/Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/obj/Debug/net6.0/MathCollection.pdb
+/Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/obj/Debug/net6.0/ref/MathCollection.dll

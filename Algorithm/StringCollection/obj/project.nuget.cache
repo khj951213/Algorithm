@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1UrwC+dQpjNYUyY58rsyesacYChnEJUUY6TIhA8A//2s2gNXO95rYO5T/1T8b+JzQTmCUYYbhZuEDtXuXZaHJg==",
+  "dgSpecHash": "tGfUJgUTwVf64jtpddwaLPHFsym0T6oHHXtmxLZboP9LEFCwJhKSEcUeBenTX0vCa2X0rFE59ob9TWthsn/ofw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\StringCollection\\StringCollection.csproj",
+  "projectFilePath": "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/StringCollection/StringCollection.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

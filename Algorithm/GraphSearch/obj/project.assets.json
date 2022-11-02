@@ -8,26 +8,28 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\khj95\\.nuget\\packages\\": {}
+    "/Users/hyun/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\GraphSearch\\GraphSearch.csproj",
+      "projectUniqueName": "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/GraphSearch/GraphSearch.csproj",
       "projectName": "GraphSearch",
-      "projectPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\GraphSearch\\GraphSearch.csproj",
-      "packagesPath": "C:\\Users\\khj95\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\GraphSearch\\obj\\",
+      "projectPath": "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/GraphSearch/GraphSearch.csproj",
+      "packagesPath": "/Users/hyun/.nuget/packages/",
+      "outputPath": "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/GraphSearch/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\khj95\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/hyun/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }

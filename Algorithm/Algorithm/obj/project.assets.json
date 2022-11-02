@@ -2,24 +2,14 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Calculator/1.0.0": {
+      "MathCollection/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Calculator.dll": {}
+          "bin/placeholder/MathCollection.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Calculator.dll": {}
-        }
-      },
-      "Fibonacci/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Fibonacci.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Fibonacci.dll": {}
+          "bin/placeholder/MathCollection.dll": {}
         }
       },
       "SecurityUtility/1.0.0": {
@@ -55,15 +45,10 @@
     }
   },
   "libraries": {
-    "Calculator/1.0.0": {
+    "MathCollection/1.0.0": {
       "type": "project",
-      "path": "../Calculator/Calculator.csproj",
-      "msbuildProject": "../Calculator/Calculator.csproj"
-    },
-    "Fibonacci/1.0.0": {
-      "type": "project",
-      "path": "../Fibonacci/Fibonacci.csproj",
-      "msbuildProject": "../Fibonacci/Fibonacci.csproj"
+      "path": "../MathCollection/MathCollection.csproj",
+      "msbuildProject": "../MathCollection/MathCollection.csproj"
     },
     "SecurityUtility/1.0.0": {
       "type": "project",
@@ -83,54 +68,52 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Calculator >= 1.0.0",
-      "Fibonacci >= 1.0.0",
+      "MathCollection >= 1.0.0",
       "SecurityUtility >= 1.0.0",
       "SortCollection >= 1.0.0",
       "StringCollection >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\khj95\\.nuget\\packages\\": {}
+    "/Users/hyun/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\Algorithm\\Algorithm.csproj",
+      "projectUniqueName": "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/Algorithm/Algorithm.csproj",
       "projectName": "Algorithm",
-      "projectPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\Algorithm\\Algorithm.csproj",
-      "packagesPath": "C:\\Users\\khj95\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\Algorithm\\obj\\",
+      "projectPath": "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/Algorithm/Algorithm.csproj",
+      "packagesPath": "/Users/hyun/.nuget/packages/",
+      "outputPath": "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/Algorithm/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\khj95\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/hyun/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\Calculator\\Calculator.csproj": {
-              "projectPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\Calculator\\Calculator.csproj"
+            "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/MathCollection.csproj": {
+              "projectPath": "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/MathCollection/MathCollection.csproj"
             },
-            "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\Fibonacci\\Fibonacci.csproj": {
-              "projectPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\Fibonacci\\Fibonacci.csproj"
+            "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/SecurityUtility/SecurityUtility.csproj": {
+              "projectPath": "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/SecurityUtility/SecurityUtility.csproj"
             },
-            "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\SecurityUtility\\SecurityUtility.csproj": {
-              "projectPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\SecurityUtility\\SecurityUtility.csproj"
+            "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/SortCollection/SortCollection.csproj": {
+              "projectPath": "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/SortCollection/SortCollection.csproj"
             },
-            "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\SortCollection\\SortCollection.csproj": {
-              "projectPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\SortCollection\\SortCollection.csproj"
-            },
-            "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\StringCollection\\StringCollection.csproj": {
-              "projectPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\StringCollection\\StringCollection.csproj"
+            "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/StringCollection/StringCollection.csproj": {
+              "projectPath": "/Users/hyun/Documents/GitHub/Algorithm/Algorithm/StringCollection/StringCollection.csproj"
             }
           }
         }
@@ -160,7 +143,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }

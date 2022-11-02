@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "Algorithm/1.0.0": {
         "dependencies": {
-          "Calculator": "1.0.0",
-          "Fibonacci": "1.0.0",
+          "MathCollection": "1.0.0",
           "SecurityUtility": "1.0.0",
           "SortCollection": "1.0.0",
           "StringCollection": "1.0.0"
@@ -18,14 +17,9 @@
           "Algorithm.dll": {}
         }
       },
-      "Calculator/1.0.0": {
+      "MathCollection/1.0.0": {
         "runtime": {
-          "Calculator.dll": {}
-        }
-      },
-      "Fibonacci/1.0.0": {
-        "runtime": {
-          "Fibonacci.dll": {}
+          "MathCollection.dll": {}
         }
       },
       "SecurityUtility/1.0.0": {
@@ -51,12 +45,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Calculator/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Fibonacci/1.0.0": {
+    "MathCollection/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

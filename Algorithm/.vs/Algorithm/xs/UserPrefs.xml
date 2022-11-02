@@ -1,15 +1,13 @@
 ﻿<Properties StartupConfiguration="{5904493F-3448-4F3B-9227-7C51AD029946}|Default">
-  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Algorithm/Program.cs">
     <Files>
-      <File FileName="Algorithm/Program.cs" Line="104" Column="42" />
-      <File FileName="Calculator/BasicCalculator.cs" Line="10" Column="10" />
-      <File FileName="Fibonacci/Class1.cs" Line="3" Column="22" />
-      <File FileName=".editorconfig" Line="1" Column="1" />
-      <File FileName="StringCollection/RevString.cs" Line="4" Column="25" />
+      <File FileName="Algorithm/Program.cs" Line="51" Column="25" />
       <File FileName="SortCollection/BubbleSort.cs" Line="12" Column="15" />
-      <File FileName="SortCollection/QuickSort.cs" Line="27" Column="62" />
+      <File FileName="SortCollection/QuickSort.cs" Line="27" Column="55" />
       <File FileName="SortCollection/ISortCollection.cs" Line="10" Column="1" />
+      <File FileName="MathCollection/Class1.cs" Line="50" Column="6" />
+      <File FileName="MathCollection/Fibonacci.cs" Line="18" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +15,7 @@
           <Node name="Algorithm" expanded="True">
             <Node name="Solution Items" expanded="True" />
             <Node name="Algorithm" expanded="True" />
-            <Node name="Calculator" expanded="True" selected="True" />
+            <Node name="MathCollection" expanded="True" />
             <Node name="SortCollection" expanded="True" />
           </Node>
         </State>
@@ -27,10 +25,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Algorithm PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.SecurityUtility FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Algorithm PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

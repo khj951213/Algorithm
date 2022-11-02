@@ -1,8 +1,7 @@
-﻿using Calculator;
-using Fibonacci;
-using StringCollection;
+﻿using StringCollection;
 using SortCollection;
 using SecurityUtility;
+using MathCollection;
 
 namespace Algorithm
 {
@@ -19,11 +18,11 @@ namespace Algorithm
             string? option = "";
 
 
-            Console.WriteLine("----- Algorithm Box -----");
+            Console.WriteLine("------- Utility Box -------");
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Version: V1.0");
             Console.WriteLine("Author: Hyun June Kim");
-            Console.WriteLine("Update Date: 2022-11-02");
+            Console.WriteLine("Last Update: 2022-11-02");
             Console.WriteLine();
             Console.ResetColor();
           
@@ -35,30 +34,56 @@ namespace Algorithm
                 Console.WriteLine("Utility List");
                 Console.WriteLine("------------------------------------------------");
                 Console.WriteLine("[0] Help");
-                Console.WriteLine("[1] Calculator");
-                Console.WriteLine("[2] Fibonacci");
-                Console.WriteLine("[3] String Utility");
-                Console.WriteLine("[4] Sort Utility");
-                Console.WriteLine("[5] Security Utility");
+                Console.WriteLine("[1] Algorithm Quiz");
+                Console.WriteLine("[2] Math Util");
+                Console.WriteLine("[3] String Util");
+                Console.WriteLine("[4] Sort Util");
+                Console.WriteLine("[5] Security Util");
                 Console.WriteLine("================================================");
                 Console.Write("> ");
                 option = Console.ReadLine();
                 Console.WriteLine("");
                 Console.Clear();
                 switch (option)
-                {      
+                {
+                    case "0":
+                        Console.WriteLine("Command List");
+                        
+                        break;
                     case "1":
                         Console.WriteLine("================================================");
-                        Console.WriteLine("Choose Calculator Options");
+                        Console.WriteLine("Choose AlgoQuiz Options");
                         Console.WriteLine("------------------------------------------------");
-                        Console.WriteLine("[1] Basic Calculator");
+                        Console.WriteLine("[1] ");
                         Console.WriteLine("[2] ");
-                        Console.WriteLine("More calculator options are under development");
+                        Console.WriteLine("More AlgoQuiz are under development");
                         Console.WriteLine("================================================");
                         Console.Write("> ");
 
-                        string? calcOption = Console.ReadLine();
-                        switch(calcOption)
+                        string? algoQuizOption = Console.ReadLine();
+                        switch(algoQuizOption)
+                        {
+                            case "1":
+                                break;
+                            case "2":
+                                break;
+                            default:
+                                break;
+                        }
+                        break;
+
+                    case "2":
+                        Console.WriteLine("================================================");
+                        Console.WriteLine("Choose Math Util Options");
+                        Console.WriteLine("------------------------------------------------");
+                        Console.WriteLine("[1] Basic Calculator");
+                        Console.WriteLine("[2] Fibonacci");
+                        Console.WriteLine("More AlgoQuiz are under development");
+                        Console.WriteLine("================================================");
+                        Console.Write("> ");
+
+                        string? mathUtilOption = Console.ReadLine();
+                        switch (mathUtilOption)
                         {
                             case "1":
                                 Console.Write("Enter First Number: ");
@@ -71,17 +96,14 @@ namespace Algorithm
                                 Console.WriteLine("Result: " + c.result());
                                 break;
                             case "2":
+                                Console.Write("Enter a number: ");
+                                int fiboNum = Int32.Parse(Console.ReadLine());
+                                int FiboRes = Fibonacci.FibonacciSum(fiboNum);
+                                Console.WriteLine("Result: " + FiboRes);
                                 break;
                             default:
                                 break;
                         }
-                        break;
-
-                    case "2":
-                        Console.Write("Enter a number: ");
-                        int fiboNum = Int32.Parse(Console.ReadLine());
-                        int FiboRes = Fibo.GetFibo(fiboNum);
-                        Console.WriteLine("Result: " + FiboRes);
                         break;
 
                     case "3":
