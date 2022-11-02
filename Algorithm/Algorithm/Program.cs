@@ -11,6 +11,7 @@ namespace Algorithm
         private static int size;
         private static int[]? numArray;
         private static int[]? sortResult;
+        private static int test;
 
 
         public static void Main(string[] args)
