@@ -108,11 +108,11 @@ namespace Algorithm
 
                     case "3":
                         Console.WriteLine("================================================");
-                        Console.WriteLine("Choose Calculator Options");
+                        Console.WriteLine("Choose String Utility Options");
                         Console.WriteLine("------------------------------------------------");
                         Console.WriteLine("[1] Reverse");
                         Console.WriteLine("[2] All Upper Case");
-                        Console.WriteLine("More calculator options are under development");
+                        Console.WriteLine("More string utility options are under development");
                         Console.WriteLine("================================================");
                         Console.Write("> ");
                         string? strOption = Console.ReadLine();
@@ -130,13 +130,9 @@ namespace Algorithm
                                 string? allUpperCaseString = Console.ReadLine();
                                 Console.WriteLine();
                                 if (allUpperCaseString != null)
-                                {
                                     Console.WriteLine(allUpperCaseString.ToUpper());
-                                }
                                 else
-                                {
                                     Console.WriteLine("Require a string value");
-                                }
                                 break;
                             default:
                                 break;
@@ -154,8 +150,6 @@ namespace Algorithm
                         Console.WriteLine("================================================");
                         Console.Write("> ");
                         string? sortOption = Console.ReadLine();
-
-
                         switch(sortOption)
                         {
                             case "1":
@@ -183,9 +177,7 @@ namespace Algorithm
                                         sortCollection = new BubbleSort();
                                         sortResult = sortCollection.Sort(numArray);
                                         for (int i = 0; i < sortResult.Length; i++)
-                                        {
                                             Console.Write(sortResult[i] + ", ");
-                                        }
                                         break;
                                     case "2":
                                         Console.Write("Type Size of the Num Array: ");
@@ -200,9 +192,7 @@ namespace Algorithm
                                         sortCollection = new BubbleSort();
                                         sortResult = sortCollection.Sort(numArray);
                                         for (int i = 0; i < sortResult.Length; i++)
-                                        {
                                             Console.Write(sortResult[i] + ", ");
-                                        }
                                         break;
                                     default:
                                         break;
@@ -233,17 +223,13 @@ namespace Algorithm
                                         }
                                         Console.Write("Original Array:");
                                         for(int i = 0; i < numArray.Length; i++)
-                                        {
                                             Console.Write(numArray[i] + ", ");
-                                        }
                                         Console.WriteLine();
                                         Console.Write("Sort Result: ");
                                         sortCollection = new QuickSort();
                                         sortResult = sortCollection.Sort(numArray);
                                         for (int i = 0; i < sortResult.Length; i++)
-                                        {
                                             Console.Write(sortResult[i] + ", ");
-                                        }
                                         break;
                                     case "2":
                                         Console.Write("Type Size of the Num Array: ");
@@ -251,7 +237,6 @@ namespace Algorithm
                                         numArray = new int[size];
                                         for (int i = 0; i < size; i++)
                                         {
-
                                             int n = Int32.Parse(Console.ReadLine());
                                             numArray[i] = n;
 
@@ -261,14 +246,11 @@ namespace Algorithm
                                         sortCollection = new QuickSort();
                                         sortResult = sortCollection.Sort(numArray);
                                         for (int i = 0; i < sortResult.Length; i++)
-                                        {
                                             Console.Write(sortResult[i] + ", ");
-                                        }
                                         break;
                                     default:
                                         break;
                                 }
-                                
                                 break;
 
                             case "3":
@@ -291,21 +273,16 @@ namespace Algorithm
                                         {
                                             int n = Random.Next(0, 99);
                                             numArray[i] = n;
-
                                         }
                                         Console.Write("Original Array:");
                                         for (int i = 0; i < numArray.Length; i++)
-                                        {
                                             Console.Write(numArray[i] + ", ");
-                                        }
                                         Console.WriteLine();
                                         Console.Write("Sort Result: ");
                                         sortCollection = new SelectionSort();
                                         sortResult = sortCollection.Sort(numArray);
                                         for (int i = 0; i < sortResult.Length; i++)
-                                        {
                                             Console.Write(sortResult[i] + ", ");
-                                        }
                                         break;
                                     case "2":
                                         Console.Write("Type Size of the Num Array: ");
@@ -321,14 +298,11 @@ namespace Algorithm
                                         sortCollection = new SelectionSort();
                                         sortResult = sortCollection.Sort(numArray);
                                         for (int i = 0; i < sortResult.Length; i++)
-                                        {
                                             Console.Write(sortResult[i] + ", ");
-                                        }
                                         break;
                                     default:
                                         break;
                                 }
-
                                 break;
 
                             default:
