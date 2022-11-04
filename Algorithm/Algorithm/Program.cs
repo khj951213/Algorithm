@@ -337,10 +337,10 @@ namespace Algorithm
                         break;
                     case "5":
                         Console.WriteLine("================================================");
-                        Console.WriteLine("Choose Hash Algorithm");
+                        Console.WriteLine("Choose Security Function");
                         Console.WriteLine("------------------------------------------------");
                         Console.WriteLine("[1] Hash");
-                        Console.WriteLine("[2] ");
+                        Console.WriteLine("[2] Token");
                         Console.WriteLine("================================================");
                         Console.Write("> ");
                         string? securityUtil = Console.ReadLine();
@@ -374,6 +374,32 @@ namespace Algorithm
                                 }
                                 break;
                             case "2":
+                                Console.WriteLine("================================================");
+                                Console.WriteLine("Choose Token Options");
+                                Console.WriteLine("------------------------------------------------");
+                                Console.WriteLine("[1] SampleTokenGenerator");
+                                Console.WriteLine("[2] Token");
+                                Console.WriteLine("================================================");
+                                Console.Write("> ");
+                                string? tokenOption = Console.ReadLine();
+                                switch(tokenOption)
+                                {
+                                    case "1":
+                                        Console.WriteLine("Type Id Number");
+                                        Console.Write("> ");
+                                        int sampleTokenId = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Type Security Token");
+                                        Console.Write("> ");
+                                        string? sampleTokenJWTToken = Console.ReadLine();
+                                        Console.WriteLine("Type Exipry Day");
+                                        Console.Write("> ");
+                                        int sampleTokenExpiryDay = int.Parse(Console.ReadLine());
+                                        string sampleTokenString = Token.SampletokenGenerator(sampleTokenId, sampleTokenJWTToken, sampleTokenExpiryDay);
+                                        Console.WriteLine(sampleTokenString);
+                                        break;
+                                    default:
+                                        break;
+                                }
                                 break;
                             default:
                                 break;

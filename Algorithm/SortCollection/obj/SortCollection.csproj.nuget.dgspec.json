@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\SortCollection\\SortCollection.csproj": {}
+    "C:\\Users\\june\\Documents\\GitHub\\Algorithm\\Algorithm\\SortCollection\\SortCollection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\SortCollection\\SortCollection.csproj": {
+    "C:\\Users\\june\\Documents\\GitHub\\Algorithm\\Algorithm\\SortCollection\\SortCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\SortCollection\\SortCollection.csproj",
+        "projectUniqueName": "C:\\Users\\june\\Documents\\GitHub\\Algorithm\\Algorithm\\SortCollection\\SortCollection.csproj",
         "projectName": "SortCollection",
-        "projectPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\SortCollection\\SortCollection.csproj",
-        "packagesPath": "C:\\Users\\khj95\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\SortCollection\\obj\\",
+        "projectPath": "C:\\Users\\june\\Documents\\GitHub\\Algorithm\\Algorithm\\SortCollection\\SortCollection.csproj",
+        "packagesPath": "C:\\Users\\june\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\june\\Documents\\GitHub\\Algorithm\\Algorithm\\SortCollection\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\khj95\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\june\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

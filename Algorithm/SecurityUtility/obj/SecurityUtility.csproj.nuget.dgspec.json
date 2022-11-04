@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\SecurityUtility\\SecurityUtility.csproj": {}
+    "C:\\Users\\june\\Documents\\GitHub\\Algorithm\\Algorithm\\SecurityUtility\\SecurityUtility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\SecurityUtility\\SecurityUtility.csproj": {
+    "C:\\Users\\june\\Documents\\GitHub\\Algorithm\\Algorithm\\SecurityUtility\\SecurityUtility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\SecurityUtility\\SecurityUtility.csproj",
+        "projectUniqueName": "C:\\Users\\june\\Documents\\GitHub\\Algorithm\\Algorithm\\SecurityUtility\\SecurityUtility.csproj",
         "projectName": "SecurityUtility",
-        "projectPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\SecurityUtility\\SecurityUtility.csproj",
-        "packagesPath": "C:\\Users\\khj95\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khj95\\Documents\\GitHub\\Algorithm\\Algorithm\\SecurityUtility\\obj\\",
+        "projectPath": "C:\\Users\\june\\Documents\\GitHub\\Algorithm\\Algorithm\\SecurityUtility\\SecurityUtility.csproj",
+        "packagesPath": "C:\\Users\\june\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\june\\Documents\\GitHub\\Algorithm\\Algorithm\\SecurityUtility\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\khj95\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\june\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +42,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
