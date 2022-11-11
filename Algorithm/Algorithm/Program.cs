@@ -54,7 +54,7 @@ namespace Algorithm
                         Console.WriteLine("================================================");
                         Console.WriteLine("Choose AlgoQuiz Options");
                         Console.WriteLine("------------------------------------------------");
-                        Console.WriteLine("[1] ");
+                        Console.WriteLine("[2557] Hello World");
                         Console.WriteLine("[2] ");
                         Console.WriteLine("More AlgoQuiz are under development");
                         Console.WriteLine("================================================");
@@ -67,6 +67,8 @@ namespace Algorithm
                                 break;
                             case "2":
                                 break;
+                            case "2557":
+
                             default:
                                 break;
                         }
